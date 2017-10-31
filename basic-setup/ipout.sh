@@ -1,0 +1,1 @@
+g++ `../../../../pkg-config/pkg-config --libs --cflags ../opencv.pc` ip1.cpp -o ip1

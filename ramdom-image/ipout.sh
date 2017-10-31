@@ -1,0 +1,1 @@
+g++ `../../../../pkg-config/pkg-config --libs --cflags ../opencv.pc` random.cpp -o random
